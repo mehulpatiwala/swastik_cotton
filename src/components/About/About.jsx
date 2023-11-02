@@ -10,7 +10,7 @@ const About = () => {
         <div className="max-w-screen-xl mx-auto">
           <div className='grid grid-cols-2 p-8 items-center'>
             <div className='w-10/12 ml-9'>
-              <img className='rounded-xl shadow-xl w-full' src="./public/image/img-about-page.jpg" alt="" />
+              <img className='rounded-xl shadow-xl w-full' src="./image/img-about-page.jpg" alt="" />
             </div>
             <div className='mr-8'>
               <h1 className='text-7xl font-bold mb-8'>

@@ -21,13 +21,13 @@ const Products = () => {
         <div >
           <Slider {...settings}>
             <div >
-              <img src="./public/image/banner-1.jpg" alt="" />
+              <img src="./image/banner-1.jpg" alt="" />
             </div>
             <div>
-              <img src="./public/image/banner-4.jpg" alt="" />
+              <img src="./image/banner-4.jpg" alt="" />
             </div>
             <div>
-              <img src="./public/image/banner-3.jpg" alt="" />
+              <img src="./image/banner-3.jpg" alt="" />
             </div>
           </Slider>
         </div>
@@ -54,7 +54,7 @@ const Products = () => {
                 </h2>
               </div>
               <div className='products-bottom mt-5 mb-10'>
-                <img src="./public/image/products-bottom.jpg" alt="" className='border-8  border-blue-900' />
+                <img src="./image/products-bottom.jpg" alt="" className='border-8  border-blue-900' />
                 <div className='product-description'>
                   <p className='py-5 px-5 border-30 border-emerald-100 text-lg font-normal text-dark leading-10'>Cotton Comber Noil is one of the finest qualities of cotton waste. Comber Noil is a by- product of the combed cotton yarn spinning industry produced when cotton is combed to remove short fibres. We provide the best quality of comber Noil which is defect free and pure cotton.</p>
                 </div>

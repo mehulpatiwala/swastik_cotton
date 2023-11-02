@@ -9,7 +9,7 @@ const Header = () => {
       <nav className="border-gray-200 dark:bg-black-900 bg-slate-50 fixed top-0	right-0 left-0  z-10">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a href="" className="flex items-center">
-            <img src="./public/image/Swastik Logo.png" className="mr-3 w-64 h-16" alt="" />
+            <img src="./image/Swastik Logo.png" className="mr-3 w-64 h-16" alt="" />
           </a>
           <div className="flex items-center md:order-2">
             <button type="button" data-dropdown-toggle="language-dropdown-menu" className="inline-flex items-center font-medium justify-center px-4 py-2 text-sm text-gray-900 dark:text-white rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-white">
